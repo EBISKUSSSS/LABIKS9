@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "ThirdViewMethod";
+}
+
+<h2>Групована дичина (по таблицях)</h2>
+
+@{
+        var typedModel = (IEnumerable<string>)Model;
+        var currentModel = typedModel.GroupBy(x => x.Substring(0, 1)).ToList();
+}
+
+@for(int letterIndex = 0;letterIndex < currentModel.Count();letterIndex++){
+<table class="table" style="width: 50%;border: 1px solid;">
+    <thead>
+        <tr>
+            <th class="text-center">@currentModel[letterIndex].Key</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for(int objectIndex = 0;objectIndex < currentModel[letterIndex].Count();objectIndex++)
+        {
+        <tr class="text-center">
+            <td>@currentModel[letterIndex].ElementAt(objectIndex)</td>
+        </tr>
+        }
+    </tbody>
+</table>
+<hr/>
+}

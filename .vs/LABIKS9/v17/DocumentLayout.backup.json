@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|c:\\users\\vlady\\source\\repos\\labiks9\\controllers\\lab9controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|solutionrelative:controllers\\lab9controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|c:\\users\\vlady\\source\\repos\\labiks9\\views\\lab9\\thirdviewmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|solutionrelative:views\\lab9\\thirdviewmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|c:\\users\\vlady\\source\\repos\\labiks9\\views\\lab9\\firstviewmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|solutionrelative:views\\lab9\\firstviewmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|c:\\users\\vlady\\source\\repos\\labiks9\\views\\lab9\\secondviewmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|solutionrelative:views\\lab9\\secondviewmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|c:\\users\\vlady\\source\\repos\\labiks9\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEFB789-5EA8-4820-9743-8651A208E256}|LABIKS9.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab9Controller.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\Controllers\\lab9Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\lab9Controller.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\Controllers\\lab9Controller.cs",
+              "RelativeToolTip": "Controllers\\lab9Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:12:30.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThirdViewMethod.cshtml",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\Views\\lab9\\ThirdViewMethod.cshtml",
+              "RelativeDocumentMoniker": "Views\\lab9\\ThirdViewMethod.cshtml",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\Views\\lab9\\ThirdViewMethod.cshtml",
+              "RelativeToolTip": "Views\\lab9\\ThirdViewMethod.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T15:34:35.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecondViewMethod.cshtml",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\Views\\lab9\\SecondViewMethod.cshtml",
+              "RelativeDocumentMoniker": "Views\\lab9\\SecondViewMethod.cshtml",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\Views\\lab9\\SecondViewMethod.cshtml",
+              "RelativeToolTip": "Views\\lab9\\SecondViewMethod.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T15:03:11.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstViewMethod.cshtml",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\Views\\lab9\\FirstViewMethod.cshtml",
+              "RelativeDocumentMoniker": "Views\\lab9\\FirstViewMethod.cshtml",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\Views\\lab9\\FirstViewMethod.cshtml",
+              "RelativeToolTip": "Views\\lab9\\FirstViewMethod.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T14:35:22.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\vlady\\source\\repos\\LABIKS9\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:30:45.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

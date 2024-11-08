@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "SecondViewMethod";
+}
+
+<h2>Сортована дичина(Table)</h2>
+
+
+<table class="table" style="width: 50%">
+    <thead>
+        <tr>
+            <th class="text-center"> Клички </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var animals in Model)
+        {
+            <tr class="text-center">
+                <td>@animals</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
